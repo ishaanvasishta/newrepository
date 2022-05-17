@@ -7,10 +7,10 @@ int add()
 {
     cout<<"Enter 1st number : "; 
     cin>>a; 
-    cout<<"Enter 2nd number : "; 
-    cin>>b;  
-    cout<<"Addition = "<<a+b<<endl; 
-}
+    cout<<"Enter 2nd number : ";  
+    cin>>b;   
+    cout<<"Addition = "<<a+b<<endl;  
+} 
 int main () 
 { 
 float a,b,PI; 
